@@ -94,30 +94,5 @@ reset_button.grid(column= 3, row= 3)
 check_mark = Label(text= "", fg= GREEN, bg= YELLOW, font= (FONT_NAME, 30, "bold"))
 check_mark.grid(column= 2, row=3)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 window.mainloop()
 
